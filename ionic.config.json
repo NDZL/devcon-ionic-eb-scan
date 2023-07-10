@@ -1,0 +1,7 @@
+{
+  "name": "eb-scan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
