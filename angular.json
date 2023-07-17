@@ -32,7 +32,7 @@
               }
             ],
             "styles": ["src/theme/variables.scss", "src/global.scss"],
-            "scripts": []
+            "scripts": ["./ebapi-modules.js"]
           },
           "configurations": {
             "production": {
@@ -136,7 +136,8 @@
   "cli": {
     "schematicCollections": [
       "@ionic/angular-toolkit"
-    ]
+    ],
+    "analytics": "d84bfbde-9487-45ca-b0a9-c4916990281a"
   },
   "schematics": {
     "@ionic/angular-toolkit:component": {
